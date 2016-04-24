@@ -1,0 +1,24 @@
+body {
+  width: 97vw;
+}
+
+#header {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(29, 83, 164);
+  border-radius: 4px;
+}
+
+#header * {
+  padding-top: 20px;
+  padding-left: 30px;
+  font-size: 48px;
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#tabs {
+  padding-right: 0px;
+  padding-left: 0px;
+  width: 100%;
+}
